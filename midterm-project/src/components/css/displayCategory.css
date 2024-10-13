@@ -1,0 +1,21 @@
+.form-group {
+    display: flex; 
+    justify-content: flex-start; 
+    align-items: center; 
+    margin-bottom: 1rem; 
+  }
+  
+  .form-group label {
+    margin-right: 1px; 
+    text-align: left; 
+    width: 150px; 
+  }
+  
+
+  .selected-category {
+    margin-top: 10px;
+    font-size: 25px;
+    color: #000;
+    text-align: left;
+  }
+  

@@ -1,0 +1,36 @@
+.sort-controls {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width: 100%; 
+    margin-bottom: 2rem;
+}
+
+.sort-by-container {
+    align-items: center;
+    justify-content: flex-start; 
+    text-align: end;
+}
+
+.order-container {
+
+    align-items: center;
+    justify-content: flex-end; 
+    text-align: end;
+     
+}
+
+.select {
+    width: 150px; 
+}
+
+.sort-dropdown {
+    width: 500px;
+  
+}
+
+.order-dropdown {
+    width: 500px; 
+    
+   
+}

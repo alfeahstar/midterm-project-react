@@ -1,0 +1,56 @@
+.table-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .inventory-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: #ffffff; 
+  }
+  
+  .inventory-table, .table-cell, .table-heading {
+    border: 1px solid #fff; 
+  }
+  
+  .table-heading,
+  .table-cell {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+  .table-heading {
+    background-color: #8C3061; 
+    color: #ffffff; 
+    text-align: center; 
+  }
+  
+  
+  .table-row:nth-child(even) {
+    background-color: #E1AFD1; 
+  }
+  
+  .table-row:nth-child(odd) {
+    background-color: #f8d3ee;
+  }
+  
+  .table-header {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+ 
+  .no-items-cell {
+    text-align: center;
+    font-style: italic;
+    color: #666; 
+  }
+  
